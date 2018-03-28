@@ -1,5 +1,5 @@
 def my_hash
-your_hash = {my_name => "Madeline", my_hometown => "LA", my_current_town => "SB"}
+your_hash = {"my name" => "Madeline", "my hometown" => "LA", "my current town" => "SB"}
 
 end
 
